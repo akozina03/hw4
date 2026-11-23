@@ -63,6 +63,3 @@ basic.forever(function on_forever2() {
     }
     
 })
-basic.forever(function on_forever3() {
-    
-})

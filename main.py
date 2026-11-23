@@ -61,7 +61,3 @@ def on_forever2():
     if happiness <= 0:
         kill = True
 basic.forever(on_forever2)
-
-def on_forever3():
-    pass
-basic.forever(on_forever3)
